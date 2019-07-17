@@ -1,0 +1,9 @@
+c:\users\internee.maria\documents\visual studio 2012\Projects\eContact\eContact\bin\Debug\eContact.exe.config
+c:\users\internee.maria\documents\visual studio 2012\Projects\eContact\eContact\bin\Debug\eContact.exe
+c:\users\internee.maria\documents\visual studio 2012\Projects\eContact\eContact\bin\Debug\eContact.pdb
+c:\users\internee.maria\documents\visual studio 2012\Projects\eContact\eContact\obj\Debug\eContact.csprojResolveAssemblyReference.cache
+c:\users\internee.maria\documents\visual studio 2012\Projects\eContact\eContact\obj\Debug\eContact.eContact.resources
+c:\users\internee.maria\documents\visual studio 2012\Projects\eContact\eContact\obj\Debug\eContact.Properties.Resources.resources
+c:\users\internee.maria\documents\visual studio 2012\Projects\eContact\eContact\obj\Debug\eContact.csproj.GenerateResource.Cache
+c:\users\internee.maria\documents\visual studio 2012\Projects\eContact\eContact\obj\Debug\eContact.exe
+c:\users\internee.maria\documents\visual studio 2012\Projects\eContact\eContact\obj\Debug\eContact.pdb
